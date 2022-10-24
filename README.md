@@ -1,4 +1,5 @@
-# Geely_AutoPliotSystemDesign
+# Geely_AutoPliotSystemDesign  
+自动驾驶系统设计--传感器仿真资料库  
 ![](https://img.shields.io/badge/Lincense-Matlab-red)
 ![](https://img.shields.io/badge/Lincense-CPlus-red)
 ![](https://img.shields.io/badge/moduel-Simulink-blue)
