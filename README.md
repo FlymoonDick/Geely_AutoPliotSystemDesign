@@ -1,17 +1,15 @@
-# Geely_AutoPliotSystemDesign  
-  **加入我们** https://www.geelycv.com/#/index
+# AutoPilot_SystemDesign  
 * *自动驾驶系统设计--传感器仿真资料库*  
 ![](https://img.shields.io/badge/Lincense-Matlab-red)
 ![](https://img.shields.io/badge/Lincense-CPlus-red)
 ![](https://img.shields.io/badge/moduel-Simulink-blue)
-![](https://img.shields.io/badge/Part-SystemDesign-green)  
+![](https://img.shields.io/badge/Part-SystemDesign-green) 
+![](https://oss.niucodata.com/text2img/4722270264890658498.png?sign=7f2f984e50bb25c182f25091de3a4be0&t=637eedc2)
+-------------------------------------------------------------------------------------------------------------------------------  
 - [ ] 需求分析
 - [ ] 系统设计
 - [ ] 详细设计
 - [ ] 测试
-
--------------------------------------------------------------------------------------------------------------------------------  
-![](https://www.geelycv.com/static/img/company01.5344c931.jpg)
 ## 更新列表  
 ------------------------------------------------------------------------------------------------------------------------------
 ## Matlab  
