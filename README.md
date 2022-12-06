@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Lincense-CPlus-red)
 ![](https://img.shields.io/badge/moduel-Simulink-blue)
 ![](https://img.shields.io/badge/Part-SystemDesign-green) 
-![](https://oss.niucodata.com/text2img/4722270264890658498.png?sign=7f2f984e50bb25c182f25091de3a4be0&t=637eedc2)
+![](https://www.geelycv.com/static/img/company01.5344c931.jpg)
 -------------------------------------------------------------------------------------------------------------------------------  
 - [ ] 需求分析
 - [ ] 系统设计
